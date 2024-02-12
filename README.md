@@ -5,7 +5,7 @@ Minicurso - Fundamentos de **Análise de Dados**
 
 ## Preparação do ambiente de trabalho
 
-### VErsionamento
+### Versionamento
 
 - GITHUB E GITLAB: rede social para compartilhar código
 - GIT: versionar o código

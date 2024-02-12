@@ -26,7 +26,7 @@ git add .
 git commit - m "inserir mensagem aqui"
 ```
 
-É uma etiqueta. Oque tem naquela versão? O que foi alterado? Monitora e põe uma etiqueta. 'Faz um commit'. Salvar a Versão e desixar disponível no remoto, com a etiqueta do que foi alterado.
+É uma etiqueta. Oque tem naquela versão? O que foi alterado? Monitora e põe uma etiqueta. 'Faz um commit'. Salvar a Versão e deixar disponível no remoto, com a etiqueta do que foi alterado.
 
 ### Sincronizar o repositório local com o remoto
 
@@ -36,7 +36,7 @@ git commit - m "inserir mensagem aqui"
 git pull origin main
 ```
 
-"Trazer para Você" - verifica se há algo novo no repositório remoto que está na nuvem, se houver alguma diferença, ele traz essa coisa nova para vocÊ em seu repositório local. 
+"Trazer para Você" - verifica se há algo novo no repositório remoto que está na nuvem, se houver alguma diferença, ele traz essa coisa nova para você em seu repositório local. 
 
 ```
 git push origin main

@@ -17,7 +17,7 @@ git add
 ```
 
 ```
-git commit - m "inserir imagem aqui"
+git commit - m "inserir mensagem aqui"
 ```
 
 ### Sincronizar o repositório local com o remoto

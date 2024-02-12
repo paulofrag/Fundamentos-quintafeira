@@ -7,7 +7,7 @@ Minicurso - Fundamentos de **Análise de Dados**
 
 ### VErsionamento
 
-- GITHUB E GITLAB: rede social de código
+- GITHUB E GITLAB: rede social para compartilhar código
 - GIT: versionar o código
   
 [OhShitGit](https://ohshitgit.com/)

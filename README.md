@@ -17,12 +17,16 @@ Minicurso - Fundamentos de **Análise de Dados**
 - Com as alterações feitas, cria-se uma nova versão do código. Ao invés de criar vários arquivos, o git gerencia essas mudanças. Fica slavo no Git como versões anteriores. Controle do Avanço.
 
 ```
-git add
+git add .
 ```
+
+'Git add ponto' - 'ponto' pega da página atual e as subpastas. O gitadd pede para o git monitorar todas as pastas e arquivos que estão dentro desta pasta
 
 ```
 git commit - m "inserir mensagem aqui"
 ```
+
+É uma etiqueta. Oque tem naquela versão? O que foi alterado? Monitora e põe uma etiqueta. 'Faz um commit'. Salvar a Versão e desixar disponível no remoto, com a etiqueta do que foi alterado.
 
 ### Sincronizar o repositório local com o remoto
 

@@ -43,3 +43,34 @@ git push origin main
 ```
 
 Deixa as alterações feitas no local disponíveis no repositório para todos. 
+### Comandos basicos Linux
+cd
+ls
+cd ..
+mkdir
+history
+cat
+touch
+rm - caminho_do_Arquivo
+cp - caminho_de_origem caminho_destino
+move - caminho de origem caminho destino
+
+### Editor de Codigo
+- [Vscode]
+- Google Colab
+
+### Ambiente Virtual
+- Software utilizado para gestao do ambiente: `conda`
+
+```
+conda env create -f enviroment.yml
+```
+
+```
+conda activate nome_ambiente
+```
+
+```
+conda env uptade
+```
+git
